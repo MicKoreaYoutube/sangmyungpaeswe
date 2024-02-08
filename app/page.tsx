@@ -7,7 +7,7 @@ import { Ban } from "lucide-react"
 
 export default function IndexPage() {
   return (
-    <section className="container grid items-center gap-6 my-28 max-w-[1000px] text-center">
+    <section className="container grid items-center gap-6 my-28 max-w-[1000px] text-center h-[60vh]">
       <div className="flex flex-col gap-2 items-center">
         <Ban className="text-red-500" size={400}/>
         <h1 className="text-3xl md:text-5xl font-extrabold leading-tight tracking-tighter font-KBO-Dia-Gothic_bold">
